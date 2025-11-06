@@ -7,7 +7,7 @@
 
 A little bit about me:
 
-I am a senior at the University of Iowa pursuing a degree in Business Analytics and Information Systems. I am very interested in all things data and am eager to learn!
+I am a recent graduate from the University of Iowa where I obtained my degree in Business Analytics and Information Systems. I am very interested in all things data and am eager to learn!
 - 🔭 I’m currently working on data wrangling and data mining projects
 - 📫 How to reach me: siddapatel@gmail.com
 - 😄 Pronouns: she/her/hers
